@@ -2,7 +2,7 @@
 using SQLite;
 using System.IO;
 
-namespace XA_Mid2Lab2
+namespace XA_SQLite_Lectures
 {
     class SQLiteDB
     {
