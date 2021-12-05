@@ -5,9 +5,9 @@ using Android.Runtime;
 using Android.Widget;
 using AndroidX.AppCompat.App;
 
-namespace XA_Mid2Lab2
+namespace XA_SQLite_Lectures
 {
-    [Activity(Label = "@string/MyCourse", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)
