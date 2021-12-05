@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace XA_Mid2Lab2
+namespace XA_SQLite_Lectures
 {
     [Activity(Label = "DisplayActivity")]
     public class DisplayActivity : Activity
