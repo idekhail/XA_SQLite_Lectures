@@ -43,7 +43,7 @@ namespace XA_SQLite_Lectures
             {
                 Id.Text = Convert.ToString(lecture.Id);
                 Code.Text = lecture.CourseCode;
-                Course.Text = lecture.CourseCode;
+                Course.Text = lecture.CourseName;
                 Teacher.Text = lecture.TeacherName;
             }
 
