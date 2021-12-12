@@ -76,14 +76,12 @@
                 android:layout_width="140.0dp"
                 android:layout_height="56.0dp"
                 android:id="@+id/AllCodes"
-                android:backgroundTint="#ff263238"
                 android:layout_margin="10dp" />
             <Button
                 android:text="Logout"
                 android:layout_width="140.0dp"
                 android:layout_height="59.5dp"
                 android:id="@+id/Logout"
-                android:backgroundTint="#ff263238"
                 android:layout_margin="10dp" />
         </LinearLayout>
         <LinearLayout
@@ -103,14 +101,12 @@
                 android:layout_width="140.0dp"
                 android:layout_height="56.0dp"
                 android:id="@+id/AllCourses"
-                android:backgroundTint="#ff263238"
                 android:layout_margin="10dp" />
             <Button
                 android:text="Control"
                 android:layout_width="140.0dp"
                 android:layout_height="59.5dp"
                 android:id="@+id/Control"
-                android:backgroundTint="#ff263238"
                 android:layout_margin="10dp" />
         </LinearLayout>
     </LinearLayout>
